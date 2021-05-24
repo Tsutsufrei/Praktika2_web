@@ -1,0 +1,72 @@
+body > header > nav > a {
+	color: aliceblue;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand.custom {
+	color: #17a2b7;
+}
+
+#navbarSupportedContent > ul > li.nav-item.active > a {
+	color: aliceblue;
+}
+
+#navbarSupportedContent > ul > li.nav-item.active > a:hover {
+	color: #17a2b7;
+}
+
+#navbarSupportedContent > ul > li:nth-child(2) > a {
+	color: aliceblue;
+}
+
+#navbarSupportedContent > ul > li:nth-child(2) > a:hover {
+	color: #17a2b7;
+}
+
+#navbarSupportedContent > ul > li:nth-child(3) > a {
+	color: aliceblue;
+}
+#navbarSupportedContent > ul > li:nth-child(3) > a:hover {
+	color: #17a2b7;
+}
+
+#navbarSupportedContent > ul > li:nth-child(4) > a {
+	color: aliceblue;
+}
+#navbarSupportedContent > ul > li:nth-child(4) > a:hover {
+	color: #17a2b7;
+}
+
+#navbarSupportedContent > ul > li:nth-child(5) > a {
+	color: aliceblue;
+}
+#navbarSupportedContent > ul > li:nth-child(5) > a:hover {
+	color: #17a2b7;
+}
+
+body {
+	background-color: #f8f9fb;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div.card {
+	border: 2px #ddd;
+	border-radius: 8px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+img {
+	border-radius: 8px;
+}
+
+div.lipp {
+	width: 65px;
+	height: 40px;
+	text-align: center;
+	border-radius: 8px;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
